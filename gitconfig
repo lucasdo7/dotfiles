@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lucasbiocelp@gmail.com
+	name = lucasmendesdias
